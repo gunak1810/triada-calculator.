@@ -55,5 +55,5 @@ Follow these steps to run the calculator on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/triada-ir.git](https://github.com/YOUR_USERNAME/triada-ir.git)
+git clone [https://github.com/gunak1810/triada-ir.git](https://github.com/gunak1810/triada-ir.git)
 cd triada-ir
